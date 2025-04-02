@@ -1,3 +1,5 @@
+<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
+
 # The Empirical Law Club (ELC)
 
 ## Research in Progress
